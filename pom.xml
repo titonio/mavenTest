@@ -8,8 +8,6 @@
 
     <scm>
         <connection>scm:git:https://github.com/titonio/mavenTest.git</connection>
-
-      <tag>mavenTest-2.5</tag>
   </scm>
 
     <dependencies>
