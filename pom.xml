@@ -4,10 +4,11 @@
 
     <groupId>com.coriant.maven.test</groupId>
     <artifactId>mavenTest</artifactId>
-    <version>2.7-SNAPSHOT</version>
+    <version>2.7</version>
 
     <scm>
         <connection>scm:git:https://github.com/titonio/mavenTest.git</connection>
+    <tag>mavenTest-2.7</tag>
   </scm>
 
     <dependencies>
