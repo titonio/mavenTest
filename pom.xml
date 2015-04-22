@@ -7,9 +7,8 @@
     <version>1.0</version>
 
     <scm>
-        <connection>scm:git:file://D:/other/logs/lixo.git</connection>
+        <connection>scm:git:https://github.com/titonio/mavenTest.git</connection>
 
-    <tag>mavenTest-1.0</tag>
   </scm>
 
     <dependencies>
